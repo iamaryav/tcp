@@ -1,2 +1,2 @@
 # tcp
-TCP server and client in Python and C
+Simple Chat server and client using TCP in Python and C
